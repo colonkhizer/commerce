@@ -1,0 +1,15 @@
+.intro-3 {
+    background: url("http://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img%20(11).jpg")no-repeat center center;
+    background-size: cover;
+}
+
+/* .card {
+    background-color: rgba(229, 228, 255, 0.2);
+} */
+
+/* .view {
+    height: 100vh;
+  } */
+h6 {
+    line-height: 1.7;
+}

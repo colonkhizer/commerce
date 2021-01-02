@@ -1,0 +1,14 @@
+
+.product__rating {
+    display: flex
+}
+
+.w-3 {
+    width: 3%
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 60%;
+    margin: 0 auto;
+    padding:15px 0px
+}
